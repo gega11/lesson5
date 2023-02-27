@@ -73,3 +73,31 @@ p{
 	margin-top: 18px;
 
 }
+
+.info{
+	
+	display: inline-block;
+	background-color: #0A22F4;
+	color: #FFFFFF;
+	border: 1px solid blue;
+	border-color: #0A22F4;
+	border-radius: 15px;
+	margin-top: 76px;
+	margin-left: 800px;
+	padding-top: 18px;
+	padding-right: 19px;
+	padding-bottom: 18px;
+	padding-left: 19px;
+}
+footer{
+	background-color: #0A22F4;
+}
+.contact{
+	margin-top: 455px;
+	margin-left: 240px;
+}
+.smallinfo{
+	max-width: 463px;
+	max-height: 99px;
+	margin-left: 5px;
+}
