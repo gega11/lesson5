@@ -18,8 +18,9 @@ header{
 	height: 390px;
 	background-color: #0020F4;
 }
+
 .skyimage{
-	margin-left:100px ;
+	margin-left:180px ;
 }
 
 header li{
@@ -30,6 +31,7 @@ nav,
 nav ul,
 nav li{
 	display: inline-block;
+	margin-left: 100px;
 }
 
 ul{
@@ -52,4 +54,22 @@ nav, a{
 	color: #171717;
 	background-color: #FFFFFF;
 	border-radius: 30px;
+}
+.mainimage{
+	max-width: 1195px;
+	max-height: 600px;
+	margin:auto;
+	margin-top: -100px;
+}
+.miniimages{
+	margin:auto;
+	margin-top:60px;
+	margin-bottom: 60px;
+	margin-left: 260px;
+}
+p{
+	max-width: 951px;
+	margin-left: 180px;
+	margin-top: 18px;
+
 }
