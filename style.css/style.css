@@ -1,0 +1,55 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+a{
+	text-decoration: none;
+}
+html body{
+	max-width: 100%;
+	overflow-x: hidden;
+}
+
+header{
+	width: 1920px;
+	padding-top: 40px;
+	height: 390px;
+	background-color: #0020F4;
+}
+.skyimage{
+	margin-left:100px ;
+}
+
+header li{
+	margin-left: 40px;
+}
+
+nav,
+nav ul,
+nav li{
+	display: inline-block;
+}
+
+ul{
+	margin-left: 250px;
+}
+
+nav,
+header > a {
+	vertical-align: middle;
+}
+
+nav, a{
+	display: inline-block;
+	color: #FFFFFF;
+	margin-left: 43px;
+}
+
+.contact{
+	padding: 18px 43px;
+	color: #171717;
+	background-color: #FFFFFF;
+	border-radius: 30px;
+}
