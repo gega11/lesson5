@@ -91,13 +91,14 @@ p{
 }
 footer{
 	max-width: 1920px;
+	max-height: 1080px;
 	background-color: #0A22F4;
 	margin-top: 180px;
 }
 .addinfo{
 	background-color: #0A22F4;
 	margin-top: ;
-	margin-left: 240px;
+	margin-left: 220px;
 }
 .smallinfo{
 	max-width: 463px;
@@ -121,4 +122,5 @@ footer{
 	padding: 22px 22px 22px;
 	border-radius: 50px;
 	margin-left: 400px;
+	margin-bottom: 265px;
 }
