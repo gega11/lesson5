@@ -90,14 +90,35 @@ p{
 	padding-left: 19px;
 }
 footer{
+	max-width: 1920px;
 	background-color: #0A22F4;
+	margin-top: 180px;
 }
-.contact{
-	margin-top: 455px;
+.addinfo{
+	background-color: #0A22F4;
+	margin-top: ;
 	margin-left: 240px;
 }
 .smallinfo{
 	max-width: 463px;
 	max-height: 99px;
 	margin-left: 5px;
+	margin-top: 30px;
+}
+.icon{
+	background-color: #FFFFFF;
+	max-width: 70px;
+	max-height: 70px;
+	padding: 22px 22px 22px;
+	border-radius: 50px;
+	margin-top: 325px;
+	margin-left: 270px;
+}
+.mail{
+	background-color: #FFFFFF;
+	max-width: 70px;
+	max-height: 70px;
+	padding: 22px 22px 22px;
+	border-radius: 50px;
+	margin-left: 400px;
 }
